@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"ios":{"default":{"projectId":"keychainquize","appId":"1:906425085890:ios:8e33c32581bc48036ef05b","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"keychainquize","configurations":{"ios":"1:906425085890:ios:8e33c32581bc48036ef05b"}}}}}}
